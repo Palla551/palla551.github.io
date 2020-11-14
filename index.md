@@ -43,29 +43,29 @@ h1. !{width: 5%; height: 5%}https://avatars2.githubusercontent.com/u/36822400?s=
 Hi! This is my personal page. I am an ASIR professional and actually I am studying Software Engineering at the University of Almería.
 If you want to know about my knowledges, here some of them
 
-h3. Programming Knowledges
+## Programming Knowledges
 
-|=. *Type*                              |  Name        | Level                    |
-|/2=. *Data Base*                       | Mysql        | REGULAR USER             |
-                                        | Oracle       | REGULAR USER             |
-|/12=. *Programming*                    | ADA          | OCASSIONAL USER          |
-                                        | ANDROID      | OCASSIONAL USER          |
-                                        | C            | REGULAR USER             |
-                                        | C#           | REGULAR USER             |
-                                        | C++          | REGULAR USER             |
-                                        | JAVA         | EXPERT                   |
-                                        | PHP          | OCASSIONAL USER          |
-                                        | PL/SQL       | OCASSIONAL USER          |
-                                        | PYTHON       | BEGGINER                 |
-                                        | SQL          | REGULAR USER             |
-                                        | SWIFT        | OCASSIONAL USER          |
-                                        | VISUAL STUDIO| REGULAR USER             |
-|/4=. *Web-Internet*                    | CSS          | OCASSIONAL USER          |
-                                        | FTP          | REGULAR USER             |
-                                        | HTML         | OCASSIONAL USER          |
-                                        | WORDPRESS    | OCASSIONAL USER          |
+| *Type*                  |  Name        | Level                    |
+| *Data Base*             | Mysql        | REGULAR USER             |
+                          | Oracle       | REGULAR USER             |
+| *Programming*           | ADA          | OCASSIONAL USER          |
+                          | ANDROID      | OCASSIONAL USER          |
+                          | C            | REGULAR USER             |
+                          | C#           | REGULAR USER             |
+                          | C++          | REGULAR USER             |
+                          | JAVA         | EXPERT                   |
+                          | PHP          | OCASSIONAL USER          |
+                          | PL/SQL       | OCASSIONAL USER          |
+                          | PYTHON       | BEGGINER                 |
+                          | SQL          | REGULAR USER             |
+                          | SWIFT        | OCASSIONAL USER          |
+                          | VISUAL STUDIO| REGULAR USER             |
+| *Web-Internet*          | CSS          | OCASSIONAL USER          |
+                          | FTP          | REGULAR USER             |
+                          | HTML         | OCASSIONAL USER          |
+                          | WORDPRESS    | OCASSIONAL USER          |
 
-h3. Software Design Knowledges
+## Software Design Knowledges
 
 p. *Visual Paradigm*
 
@@ -77,7 +77,7 @@ p(. _The Unified Modeling Language (UML) is a general-purpose, developmental, mo
 
 ----
 
-h3. Contact
+## Contact
 
 *e-mail*: jps105@inlumine.ual.es
 *Projects*: "GitHub":https://github.com/Palla551 
