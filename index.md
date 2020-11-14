@@ -45,25 +45,25 @@ If you want to know about my knowledges, here some of them
 
 h3. Programming Knowledges
 
-|=. *Type*                              |=. *Name*       |=. *Level*                  |
-|/2=. *Data Base*                       |=. Mysql        |=. REGULAR USER             |
-                                        |=. Oracle       |=. REGULAR USER             |
-|/12=. *Programming*                    |=. ADA          |=. OCASSIONAL USER          |
-                                        |=. ANDROID      |=. OCASSIONAL USER          |
-                                        |=. C            |=. REGULAR USER             |
-                                        |=. C#           |=. REGULAR USER             |
-                                        |=. C++          |=. REGULAR USER             |
-                                        |=. JAVA         |=. EXPERT                   |
-                                        |=. PHP          |=. OCASSIONAL USER          |
-                                        |=. PL/SQL       |=. OCASSIONAL USER          |
-                                        |=. PYTHON       |=. BEGGINER                 |
-                                        |=. SQL          |=. REGULAR USER             |
-                                        |=. SWIFT        |=. OCASSIONAL USER          |
-                                        |=. VISUAL STUDIO|=. REGULAR USER             |
-|/4=. *Web-Internet*                    |=. CSS          |=. OCASSIONAL USER          |
-                                        |=. FTP          |=. REGULAR USER             |
-                                        |=. HTML         |=. OCASSIONAL USER          |
-                                        |=. WORDPRESS    |=. OCASSIONAL USER          |
+|=. *Type*                              |  Name        | Level                    |
+|/2=. *Data Base*                       | Mysql        | REGULAR USER             |
+                                        | Oracle       | REGULAR USER             |
+|/12=. *Programming*                    | ADA          | OCASSIONAL USER          |
+                                        | ANDROID      | OCASSIONAL USER          |
+                                        | C            | REGULAR USER             |
+                                        | C#           | REGULAR USER             |
+                                        | C++          | REGULAR USER             |
+                                        | JAVA         | EXPERT                   |
+                                        | PHP          | OCASSIONAL USER          |
+                                        | PL/SQL       | OCASSIONAL USER          |
+                                        | PYTHON       | BEGGINER                 |
+                                        | SQL          | REGULAR USER             |
+                                        | SWIFT        | OCASSIONAL USER          |
+                                        | VISUAL STUDIO| REGULAR USER             |
+|/4=. *Web-Internet*                    | CSS          | OCASSIONAL USER          |
+                                        | FTP          | REGULAR USER             |
+                                        | HTML         | OCASSIONAL USER          |
+                                        | WORDPRESS    | OCASSIONAL USER          |
 
 h3. Software Design Knowledges
 
