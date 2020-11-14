@@ -44,11 +44,11 @@ Hi! This is my personal page. I am an ASIR professional and actually I am studyi
 If you want to know about my knowledges, here some of them
 
 ## Programming Knowledges
-
-| *Type*                  |  Name        | Level                    |
-| *Data Base*             | Mysql        | REGULAR USER             |
+```markdown
+| **Type**                |  **Name**    | **Level**                |
+| **Data Base**           | Mysql        | REGULAR USER             |
                           | Oracle       | REGULAR USER             |
-| *Programming*           | ADA          | OCASSIONAL USER          |
+| **Programming**         | ADA          | OCASSIONAL USER          |
                           | ANDROID      | OCASSIONAL USER          |
                           | C            | REGULAR USER             |
                           | C#           | REGULAR USER             |
@@ -60,11 +60,11 @@ If you want to know about my knowledges, here some of them
                           | SQL          | REGULAR USER             |
                           | SWIFT        | OCASSIONAL USER          |
                           | VISUAL STUDIO| REGULAR USER             |
-| *Web-Internet*          | CSS          | OCASSIONAL USER          |
+| **Web-Internet**        | CSS          | OCASSIONAL USER          |
                           | FTP          | REGULAR USER             |
                           | HTML         | OCASSIONAL USER          |
                           | WORDPRESS    | OCASSIONAL USER          |
-
+```
 ## Software Design Knowledges
 
 p. *Visual Paradigm*
