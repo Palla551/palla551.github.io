@@ -36,6 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+![image tooltip here](https://avatars2.githubusercontent.com/u/36822400?s=460&u=4a18f47a483be04e8b734c962631f51229893840&v=4)
 h1. !{width: 5%; height: 5%}https://avatars2.githubusercontent.com/u/36822400?s=460&u=4a18f47a483be04e8b734c962631f51229893840&v=4! Juan José Pallarés Sánchez
 
 ----
@@ -43,8 +44,10 @@ h1. !{width: 5%; height: 5%}https://avatars2.githubusercontent.com/u/36822400?s=
 Hi! This is my personal page. I am an ASIR professional and actually I am studying Software Engineering at the University of Almería.
 If you want to know about my knowledges, here some of them
 
-## Programming Knowledges
-```markdown
+### Programming Knowledges
+
+Some
+
 | **Type**                |  **Name**    | **Level**                |
 | **Data Base**           | Mysql        | REGULAR USER             |
                           | Oracle       | REGULAR USER             |
@@ -64,20 +67,20 @@ If you want to know about my knowledges, here some of them
                           | FTP          | REGULAR USER             |
                           | HTML         | OCASSIONAL USER          |
                           | WORDPRESS    | OCASSIONAL USER          |
-```
-## Software Design Knowledges
+                          
+### Software Design Knowledges
 
-p. *Visual Paradigm*
+1. **Visual Paradigm**
 
-p(. _A UML CASE Tool supporting UML 2_
+1.1 (. _A UML CASE Tool supporting UML 2_
 
-p. *UML*
+2. *UML*
 
-p(. _The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering_
+2.1(. _The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering_
 
 ----
 
-## Contact
+### Contact
 
 *e-mail*: jps105@inlumine.ual.es
 *Projects*: "GitHub":https://github.com/Palla551 
