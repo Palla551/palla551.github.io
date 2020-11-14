@@ -27,9 +27,9 @@ If you want to know about my knowledges, here some of them
                           
 ### Software Design Knowledges
 
-1. **Visual Paradigm** A UML CASE Tool supporting UML
+**Visual Paradigm** A UML CASE Tool supporting UML
+**UML** The Unified Modeling Lenguage (UML) is a general-purpose, developmental, modeling language in the field of software engineering
 
-2. **UML** The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering
 ----
 
 ### Contact
