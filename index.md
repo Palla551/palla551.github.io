@@ -38,6 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Juan José Pallarés Sánchez
 
+<img src="https://avatars2.githubusercontent.com/u/36822400?s=460&u=4a18f47a483be04e8b734c962631f51229893840&v=4" width="40%">
+
+
 ----
 
 Hi! This is my personal page. I am an ASIR professional and actually I am studying Software Engineering at the University of Almería.
