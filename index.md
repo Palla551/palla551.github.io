@@ -36,8 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-![image tooltip here](https://avatars2.githubusercontent.com/u/36822400?s=460&u=4a18f47a483be04e8b734c962631f51229893840&v=4)
-h1. !{width: 5%; height: 5%}https://avatars2.githubusercontent.com/u/36822400?s=460&u=4a18f47a483be04e8b734c962631f51229893840&v=4! Juan José Pallarés Sánchez
+![https://avatars2.githubusercontent.com/u/36822400?s=460&u=4a18f47a483be04e8b734c962631f51229893840&v=4 =100x20]()
+Juan José Pallarés Sánchez
 
 ----
 
