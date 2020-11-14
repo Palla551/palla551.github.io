@@ -5,8 +5,6 @@ If you want to know about my knowledges, here some of them
 
 ### Programming Knowledges
 
-Some
-
 | **Type**                |  **Name**    | **Level**                |
 | **Data Base**           | Mysql        | REGULAR USER             |
                           | Oracle       | REGULAR USER             |
